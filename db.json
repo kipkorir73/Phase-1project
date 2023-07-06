@@ -1,0 +1,404 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "Young Forever",
+      "capacity": 60,
+      "sold": 60,
+      "price": "900Kshs",
+      "author": " Mark Hyman",
+      "description": "The secret to living Your longest, Healthier life.",
+      "posterUrl": "https://cdn.shopify.com/s/files/1/0279/9910/9251/products/YoungForever_2000x.jpg?v=1674501279"
+    },
+    {
+      "id": "2",
+      "title": "Mini Habits",
+      "capacity": 60,
+      "sold": 54,
+      "price": "780kshs",
+      "author": " Stephen Guise",
+      "description": " Stop Dieting. Form New Habits. Change Your Lifestyle Without Suffering.",
+      "posterUrl": "https://m.media-amazon.com/images/I/414wZTE2DqL._SX331_BO1,204,203,200_.jpg"
+    },
+    {
+      "id": "3",
+      "title": "The Lifestyle Investor",
+      "capacity": 20,
+      "sold": 17,
+      "price": "390kshs",
+      "author": " Justin Donald",
+      "description": " The 10 Commandments of Cash Flow Investing for Passive Income and Financial Freedom.",
+      "posterUrl": "https://img.thriftbooks.com/api/images/i/m/0954A81BB1DB9FE636C0F18A0448E6ABB0022462.jpg"
+    },
+    {
+      "id": "4",
+      "title": "The Lifestyle Blueprint",
+      "capacity": 10,
+      "sold": 10,
+      "price": "500Kshs",
+      "author": " Dave Perrotta",
+      "description": " How to Talk to Women, Build Your Social Circle, and Grow Your Wealth.",
+      "posterUrl": "https://m.media-amazon.com/images/I/51gFVAAMlLL.jpg"
+    },
+    {
+      "id": "5",
+      "title": "Undo It!",
+      "capacity": 100,
+      "sold": 57,
+      "price": "979Kshs",
+      "author": "  Dean Ornish M.D",
+      "description": " How Simple Lifestyle Changes Can Reverse Most Chronic Diseases.",
+      "posterUrl": "https://m.media-amazon.com/images/I/51URrjxmr6L._SX329_BO1,204,203,200_.jpg"
+    },
+    {
+      "id": "6",
+      "title": "The Great American Burger Book ",
+      "capacity": 10,
+      "sold": 8,
+      "price": "909Kshs",
+      "author": "George Motz",
+      "description": " How to Make Authentic Regional Hamburgers at Home.",
+      "posterUrl": "https://m.media-amazon.com/images/I/71hKhF+o+YL._AC_UY218_.jpg"
+    },
+    {
+      "id": "7",
+      "title": "The All New Ball Book Of Canning And Preserving",
+      "capacity": 17,
+      "sold": 9,
+      "price": "589Kshs",
+      "author": " Ball Home",
+      "description": " Over 350 of the Best Canned, Jammed, Pickled, and Preserved Recipes.",
+      "posterUrl": "https://m.media-amazon.com/images/I/61RQpXdr18L._AC_UY218_.jpg"
+    },
+    {
+      "id": "8",
+      "title": "The Mediterranean Dish",
+      "capacity": 7,
+      "sold": 7,
+      "price": "2000Kshs",
+      "author": "Suzy Karadsheh",
+      "description": " 120 Bold and Healthy Recipes You'll Make on Repeat: A Mediterranean Cookbook.",
+      "posterUrl": "https://m.media-amazon.com/images/I/A1OaSpd8Q4L._AC_UY218_.jpg"
+    },
+    {
+      "id": "9",
+      "title": "The Complete Guide to Pressure Canning",
+      "capacity": 78,
+      "sold": 70,
+      "price": "1000Kshs",
+      "author": "Diane Devereaux",
+      "description": " Everything You Need to Know to Can Meats, Vegetables, Meals in a Jar, and More.",
+      "posterUrl": "https://m.media-amazon.com/images/I/71oC0KxzEnL._AC_UY218_.jpg"
+    },
+    {
+      "id": "10",
+      "title": "The New Cooking School Cookbook",
+      "capacity": 7,
+      "sold": 0,
+      "price": "1800Kshs",
+      "author": " America's Test Kitchen",
+      "description": " Go to cooking school in your own kitchen with over 80 themed courses to learn more than 200 skills and cook 400 recipes.",
+      "posterUrl": "https://m.media-amazon.com/images/I/51iB8xKHY9S._SX430_BO1,204,203,200_.jpg"
+    },
+    {
+      "id": "11",
+      "title": "Dog Ate My Mad Libs",
+      "capacity": 7,
+      "sold": 7,
+      "price": "800Kshs",
+      "author": " Mad Libs  ",
+      "description": " World's Greatest Word Game.",
+      "posterUrl": "https://m.media-amazon.com/images/I/51IGBIuOJtL._SX311_BO1,204,203,200_.jpg"
+    },
+    {
+      "id": "12",
+      "title": "Paint by Sticker Kids",
+      "capacity": 5,
+      "sold": 5,
+      "price": "950Kshs",
+      "author": "Workman Publishing",
+      "description": "Rainbows Everywhere!: Create 10 Pictures One Sticker at a Time! .",
+      "posterUrl": "https://m.media-amazon.com/images/I/8118OU1RIyL._AC_UY218_.jpg"
+    },
+    {
+      "id": "13",
+      "title": "Trace Letters",
+      "capacity": 15,
+      "sold": 5,
+      "price": "980Kshs",
+      "author": "Sujatha Lalgudi",
+      "description": "Alphabet Handwriting Practice workbook for kids: Preschool writing Workbook with Sight words for Pre K, Kindergarten and Kids Ages 3-5. ABC print handwriting book .",
+      "posterUrl": "https://m.media-amazon.com/images/I/51t-4UxvCcL._SX384_BO1,204,203,200_.jpg"
+    },
+    {
+      "id": "14",
+      "title": "Way of the Warrior Kid",
+      "capacity": 150,
+      "sold": 50,
+      "price": "990Kshs",
+      "author": " Jocko Willink and Jon Bozak",
+      "description": "From Wimpy to Warrior the Navy SEAL Way: A Novel (Way of the Warrior Kid, 1).",
+      "posterUrl": "https://m.media-amazon.com/images/I/81aZBGG--1L._AC_UY218_.jpg"
+    },
+    {
+      "id": "15",
+      "title": "Cat Kid Comic Club",
+      "capacity": 90,
+      "sold": 90,
+      "price": "250Kshs",
+      "author": " Dav Pilkey",
+      "description": "A Graphic Novel (Cat Kid Comic Club #4): From the Creator of Dog Man.",
+      "posterUrl": "https://m.media-amazon.com/images/I/51p5Q9JXTXL._SX336_BO1,204,203,200_.jpg"
+    },
+    {
+      "id": "16",
+      "title": "World Travel",
+      "capacity": 4,
+      "sold": 0,
+      "price": "2500Kshs",
+      "author": "  Anthony Bourdain and Laurie Woolever ",
+      "description": "An Irreverent Guide.",
+      "posterUrl": "https://m.media-amazon.com/images/I/91vF8dQLyaS._AC_UY218_.jpg"
+    },
+    {
+      "id": "17",
+      "title": "National Geographic Road Atlas",
+      "capacity": 40,
+      "sold": 40,
+      "price": "500Kshs",
+      "author": " National Geographic Maps ",
+      "description": "Adventure Edition [United States, Canada, Mexico].",
+      "posterUrl": "https://m.media-amazon.com/images/I/71CNhg-q3FL._AC_UY218_.jpg"
+    },
+    {
+      "id": "18",
+      "title": "Fodor's Essential Scandinavia",
+      "capacity": 70,
+      "sold": 40,
+      "price": "800Kshs",
+      "author": "  Fodor's Travel Guides",
+      "description": "The Best of Norway, Sweden, Denmark, Finland, and Iceland (Full-color Travel Guide).",
+      "posterUrl": "https://m.media-amazon.com/images/I/91M0A2ON5sL._AC_UY218_.jpg"
+    },
+    {
+      "id": "19",
+      "title": "Rick Steves Greece",
+      "capacity": 20,
+      "sold": 19,
+      "price": "300Kshs",
+      "author": "  Rick Steves",
+      "description": "Athens & the Peloponnese (The Rick Steves' Greece).",
+      "posterUrl": "https://m.media-amazon.com/images/I/81DOUINPZqL._AC_UY218_.jpg"
+    },
+    {
+      "id": "20",
+      "title": "Where Should We Camp Next?: National Parks",
+      "capacity": 2,
+      "sold": 1,
+      "price": "3000Kshs",
+      "author": " Stephanie Puglisi and Jeremy Puglisi",
+      "description": " The Best Campgrounds and Unique Outdoor Accommodations In and Around National Parks, Seashores, Monuments, and More.",
+      "posterUrl": "https://m.media-amazon.com/images/I/81NhmfwsVbL._AC_UY218_.jpg"
+    },
+    {
+      "id": "21",
+      "title": "Trigger Warning",
+      "capacity": 5,
+      "sold": 3,
+      "price": "1000Kshs",
+      "author": " Neil Gaiman",
+      "description": " Short Fictions and Disturbances",
+      "posterUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415036119i/22522808._SX50_.jpg"
+    },
+    {
+      "id": "22",
+      "title": "Smoke and Mirrors",
+      "capacity": 7,
+      "sold": 2,
+      "price": "500Kshs",
+      "author": " Neil Gaiman",
+      "description": "  Short Fiction and Illusions",
+      "posterUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1682792067i/16790.jpg"
+    },
+    {
+      "id": "23",
+      "title": "The Night Watchman",
+      "capacity": 9,
+      "sold": 7,
+      "price": "650Kshs",
+      "author": " Louise Erdrich",
+      "description": " Pulitzer price Winning Fiction",
+      "posterUrl": " https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1560805539i/46206688._SY75_.jpg"
+    },
+    {
+      "id": "24",
+      "title": "Octavia's Brood",
+      "capacity": 34,
+      "sold": 29,
+      "price": "1050Kshs",
+      "author": " Adrienne Maree Brown",
+      "description": " Science Fiction Stories from Social Justice Movements",
+      "posterUrl": " https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1425611661i/23129839._SX50_.jpg"
+    },
+    {
+      "id": "25",
+      "title": " Wonderbook",
+      "capacity": 4,
+      "sold": 2,
+      "price": "150Kshs",
+      "author": " Adrienne Maree Brown",
+      "description": " The Illustrated Guide to Creating Imaginative Fiction",
+      "posterUrl": " https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1378324883i/15842650._SX50_.jpg"
+    },
+    {
+      "id": "26",
+      "title": "The History of the Computer",
+      "capacity": 8,
+      "sold": 2,
+      "price": "1500Kshs",
+      "author": " Rachel Ignotofsky",
+      "description": " People, Inventions, and Technology that Changed Our World",
+      "posterUrl": " https://m.media-amazon.com/images/I/91XlLjA90vL._AC_UY218_.jpg"
+    },
+    {
+      "id": "27",
+      "title": " Information Technology Essentials Volume 1",
+      "capacity": 6,
+      "sold": 4,
+      "price": "4500Kshs",
+      "author": "  Eric Frick ",
+      "description": " Introduction to Information Systems",
+      "posterUrl": " https://m.media-amazon.com/images/I/71k5VimvsQL._AC_UY218_.jpg"
+    },
+    {
+      "id": "28",
+      "title": " Illustrating for Science",
+      "capacity": 4,
+      "sold": 4,
+      "price": "3500Kshs",
+      "author": " George V. Kelvin ",
+      "description": " A Problem-Solving Approach to Rendering Subjects in Biology, Chemistry, Physics , Astronomy, Space Technology, Medicine, Geology and Architecture",
+      "posterUrl": " https://m.media-amazon.com/images/I/41gIYM9HHbL._AC_UY218_.jpg"
+    },
+    {
+      "id": "29",
+      "title": " Foams",
+      "capacity": 9,
+      "sold": 6,
+      "price": "5000Kshs",
+      "author": "  Ashley J. Wilson ",
+      "description": " Physics, Chemistry and Structure (Springer Series in Applied Biology)",
+      "posterUrl": " https://m.media-amazon.com/images/I/51UnrJiLbgL._AC_UY218_.jpg"
+    },
+    {
+      "id": "30",
+      "title": " Super Simple Physics",
+      "capacity": 13,
+      "sold": 10,
+      "price": "2000Kshs",
+      "author": "   DK  ",
+      "description": " The Ultimate Bitesize Study Guide (DK Super Simple)",
+      "posterUrl": " https://m.media-amazon.com/images/I/81wciTuuCpL._AC_UY218_.jpg"
+    },
+    {
+      "id": "31",
+      "title": "Spirituality Before Religions ",
+      "capacity": 23,
+      "sold": 20,
+      "price": "1000Kshs",
+      "author": "   Prof Kaba Hiawatha Kamene and Nelson Ford  ",
+      "description": " Spirituality is Unseen Science...Science is Seen Spirituality",
+      "posterUrl": " https://m.media-amazon.com/images/I/61J-co3VztL._AC_UY218_.jpg"
+    },
+    {
+      "id": "32",
+      "title": "Integral Spirituality ",
+      "capacity": 25,
+      "sold": 25,
+      "price": "6000Kshs",
+      "author": "   Ken Wilber  ",
+      "description": " A Startling New Role for Religion in the Modern and Postmodern World",
+      "posterUrl": " https://m.media-amazon.com/images/I/81F0ADNpgjL._AC_UY218_.jpg"
+    },
+    {
+      "id": "33",
+      "title": " A Religion of One's Own ",
+      "capacity": 15,
+      "sold": 5,
+      "price": "3000Kshs",
+      "author": "  Thomas Moore, Donald Corren  ",
+      "description": " A Guide to Creating a Personal Spirituality in a Secular World",
+      "posterUrl": " https://m.media-amazon.com/images/I/81-5cE4h5uL._AC_UY218_.jpg"
+    },
+    {
+      "id": "34",
+      "title": " Celtic Spirituality",
+      "capacity": 5,
+      "sold": 3,
+      "price": "2000Kshs",
+      "author": "  Philip Freeman, Derek Perkins  ",
+      "description": " An Introduction to the Sacred Wisdom of the Celts",
+      "posterUrl": " https://m.media-amazon.com/images/I/81+6fPszP4S._AC_UY218_.jpg"
+    },
+    {
+      "id": "35",
+      "title": " Think Indigenous",
+      "capacity": 6,
+      "sold": 2,
+      "price": "1000Kshs",
+      "author": " Doug Good Feather  ",
+      "description": " Native American Spirituality for a Modern World",
+      "posterUrl": " https://m.media-amazon.com/images/I/A1wbM6LVCHL._AC_UY218_.jpg"
+    },
+    {
+      "id": "36",
+      "title": " Teenage Mutant Ninja Turtles",
+      "capacity": 6,
+      "sold": 2,
+      "price": "400Kshs",
+      "author": " Kevin Eastman and Peter Laird  ",
+      "description": "  The Ultimate Collection, Vol. 1 (TMNT Ultimate Collection)",
+      "posterUrl": " https://m.media-amazon.com/images/I/A1MG75-aA3L._AC_UY218_.jpg"
+    },
+    {
+      "id": "37",
+      "title": " SPIDER-MAN",
+      "capacity": 8,
+      "sold": 8,
+      "price": "300Kshs",
+      "author": "  Sara Pichelli and Brian Michael Bendis  ",
+      "description": " MILES MORALES VOL. 1",
+      "posterUrl": " https://m.media-amazon.com/images/I/912sFRPv-GL._AC_UY218_.jpg"
+    },
+    {
+      "id": "38",
+      "title": " Understanding Comics",
+      "capacity": 18,
+      "sold": 8,
+      "price": "200Kshs",
+      "author": "  Scott McCloud   ",
+      "description": " The Invisible Art",
+      "posterUrl": " https://m.media-amazon.com/images/I/71vIFzQbtbL._AC_UY218_.jpg"
+    },
+    {
+      "id": "39",
+      "title": " MIGHTY MARVEL MASTERWORKS",
+      "capacity": 10,
+      "sold": 8,
+      "price": "300Kshs",
+      "author": "   Steve Ditko   ",
+      "description": " THE AMAZING SPIDER-MAN VOL. 2 - THE SINISTER SIX",
+      "posterUrl": " https://m.media-amazon.com/images/I/51UHaHVQD4L._SX326_BO1,204,203,200_.jpg"
+    },
+    {
+      "id": "40",
+      "title": " Bloodborne",
+      "capacity": 13,
+      "sold": 9,
+      "Price": "300Kshs",
+      "author": "  Cullen Bunn  ",
+      "description": " Lady of the Lanterns (Graphic Novel) ",
+      "posterUrl": " https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSd1kJaLm2BoZxHWSZqcGGQDdmya8Qozc8ae7vtXp9fHkpc8WKS"
+    }
+  ]
+}
