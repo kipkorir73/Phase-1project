@@ -1,4 +1,4 @@
-document.addEventListener('DOMContentLoaded', function() {
+ document.addEventListener('DOMContentLoaded', function() {
   const searchInput = document.getElementById('sss');
   searchInput.addEventListener('input', handleSearch);
 
@@ -6,11 +6,11 @@ document.addEventListener('DOMContentLoaded', function() {
 
   const topPicksIds = [1, 6, 11, 17, 25, 30, 35, 40];
   const topPicksPromises = topPicksIds.map(id =>
-    fetch(`http://localhost:3000/books/${id}`)
+    fetch(`https://jason-api-phase-1.onrender.com/books/${id}`)
       .then(response => response.json())
   );
 
-  const allTitlesPromise = fetch('http://localhost:3000/books')
+  const allTitlesPromise = fetch('https://jason-api-phase-1.onrender.com/books')
     .then(response => response.json())
     .then(data => {
       allTitlesData = data;
@@ -78,7 +78,7 @@ document.addEventListener('DOMContentLoaded', function() {
       addToCartButton.addEventListener('click', (event) => {
         event.preventDefault();
         if (book.sold < book.capacity) {
-          fetch(`http://localhost:3000/books/${book.id}`, {
+          fetch(`https://jason-api-phase-1.onrender.com/books/${book.id}`, {
             method: 'PATCH',
             headers: {
               'Content-Type': 'application/json',
